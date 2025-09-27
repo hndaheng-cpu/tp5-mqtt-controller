@@ -1,5 +1,5 @@
 {
-    "name": "yourname/tp5-mqtt-collector",
+    "name": "phoneda/tp5-mqtt-collector",
     "description": "MQTT 数据采集扩展包 for ThinkPHP 5.0",
     "type": "library",
     "license": "MIT",
